@@ -38,6 +38,9 @@ Untuk menyamakan remote
 -git pull
 -git fetch
 
+Untuk melihat branch (cabang)
+-git branch
+
 
 
 
