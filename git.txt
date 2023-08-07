@@ -1,0 +1,36 @@
+Untuk login ke git
+-git config --global user.name (string)
+-git config --global user.password (string)
+
+Untuk Logging
+-git log
+-git log --decorate --oneline --graph
+
+Untuk melihat status repo
+-git status
+
+Untuk melihat remote
+-git remote
+-git remote --v
+
+Untuk menambahkan Remote baru
+-git remote add origin (link repo)
+
+Untuk clone repo github ke lokal
+-git clone 
+
+Untuk commit
+-git commit --m (string)
+-git commit --am (string)
+
+Untuk kembali ke commit yang terdahulu
+-git checkout (7 angka unik commit)
+-git switch
+
+Untuk menambahkan file ke stagging
+-git add (nama file)
+-git add .
+
+
+
+
