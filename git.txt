@@ -31,6 +31,13 @@ Untuk menambahkan file ke stagging
 -git add (nama file)
 -git add .
 
+Untuk push commit ke github
+-git push
+
+Untuk menyamakan remote 
+-git pull
+-git fetch
+
 
 
 
